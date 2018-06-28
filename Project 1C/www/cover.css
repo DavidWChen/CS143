@@ -1,0 +1,40 @@
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #333;
+  text-shadow: none;
+  background-color: #fff;
+  border: .05rem solid #fff;
+}
+
+html, body {
+  min-height: 100%;
+}
+
+body {
+  background-position: center;
+  background-color: #333;
+  color: #fff;
+  background-repeat:no-repeat;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  background: #000000;   fallback for old browsers 
+  background: -webkit-linear-gradient(to top, #53346D, #000000);
+  background: linear-gradient(to top, #53346D, #000000);
+}
+
+
+
+
+
+
+
+
+
